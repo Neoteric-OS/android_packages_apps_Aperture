@@ -112,7 +112,6 @@ dependencies {
 
     // ZXing
     implementation("com.google.zxing:core:3.5.3")
-    implementation("io.github.zxing-cpp:android:2.2.0")
 
     // Coil
     implementation("io.coil-kt:coil:2.4.0")
